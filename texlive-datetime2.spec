@@ -1,6 +1,6 @@
 Name:		texlive-datetime2
 Version:	63102
-Release:	1
+Release:	2
 Summary:	Formats for dates, times and time zones
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datetime2
