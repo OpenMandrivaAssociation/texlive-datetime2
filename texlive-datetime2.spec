@@ -3,7 +3,7 @@ Version:	63102
 Release:	2
 Summary:	Formats for dates, times and time zones
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datetime2
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/datetime2
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2.doc.r%{version}.tar.xz
